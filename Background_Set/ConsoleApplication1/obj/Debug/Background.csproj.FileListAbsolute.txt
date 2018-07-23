@@ -1,0 +1,16 @@
+c:\users\sanket\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Set_Background.exe.config
+c:\users\sanket\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Background.csprojResolveAssemblyReference.cache
+c:\users\sanket\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Set_Background.exe
+c:\users\sanket\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Set_Background.pdb
+c:\users\sanket\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\users\sanket\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+c:\users\sanket\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Set_Background.exe
+c:\users\sanket\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Set_Background.pdb
+C:\Users\Sanket\Documents\Visual Studio 2015\Projects\Background_Set\ConsoleApplication1\bin\Debug\Set_Background.exe.config
+C:\Users\Sanket\Documents\Visual Studio 2015\Projects\Background_Set\ConsoleApplication1\obj\Debug\Set_Background.exe
+C:\Users\Sanket\Documents\Visual Studio 2015\Projects\Background_Set\ConsoleApplication1\obj\Debug\Set_Background.pdb
+C:\Users\Sanket\Documents\Visual Studio 2015\Projects\Background_Set\ConsoleApplication1\obj\Debug\Background.csprojResolveAssemblyReference.cache
+C:\Users\Sanket\Documents\Visual Studio 2015\Projects\Background_Set\ConsoleApplication1\bin\Debug\Set_Background.exe
+C:\Users\Sanket\Documents\Visual Studio 2015\Projects\Background_Set\ConsoleApplication1\bin\Debug\Set_Background.pdb
+C:\Users\Sanket\Documents\Visual Studio 2015\Projects\Background_Set\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sanket\Documents\Visual Studio 2015\Projects\Background_Set\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
