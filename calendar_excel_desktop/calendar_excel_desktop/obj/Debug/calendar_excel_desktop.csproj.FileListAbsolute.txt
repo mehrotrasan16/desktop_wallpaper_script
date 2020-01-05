@@ -1,0 +1,4 @@
+c:\users\sanket\documents\visual studio 2015\Projects\calendar_excel_desktop\calendar_excel_desktop\bin\Debug\calendar_excel_desktop.exe.config
+C:\Users\Sanket\documents\visual studio 2015\Projects\calendar_excel_desktop\calendar_excel_desktop\obj\Debug\Interop.VSTOEE100.dll
+C:\Users\Sanket\documents\visual studio 2015\Projects\calendar_excel_desktop\calendar_excel_desktop\obj\Debug\Interop.VSTOEE90.dll
+C:\Users\Sanket\documents\visual studio 2015\Projects\calendar_excel_desktop\calendar_excel_desktop\obj\Debug\calendar_excel_desktop.csproj.ResolveComReference.cache
